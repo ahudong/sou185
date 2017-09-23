@@ -202,8 +202,68 @@
         </div>
     </div>
 
-    <div style="width:63.9%;margin-left:17.5%;margin-top:10px;height:1000px;border:1px solid red">
+    <div style="width:63.9%;margin-left:17.5%;margin-top:10px;height:950px;">
+        <div style="width:33%;height:100%;border:1px solid #dddddd;float:left">
+            <div style="width:85%;height:100px;margin:25px auto;">
+                <div style="height:50px;width:100%;">
+                    <div style="height:100%;font-weight:bold;font-size:22px;float:left;color:green;line-height:50px;width:50%;">老家特产大百科</div>
+                    <div style="border-radius:30px;float:left;width:40%;background-color:green;height:100%;font-weight:bold;text-align:center;line-height:50px;color:white;font-size:20px;">创建百科</div>
+                </div>
+                <div style="width:100%;height:50px;margin-top:15px;line-height:50px;color:green;font-weight:bold;font-size:20px;">共收录
+                    <span style="margin-left:15px;margin-right:15px;color:yellow">13528条</span>
+                    特产百科
+                </div>
+            </div>
+            <div style="width:80%;margin:0 auto;border-top:1px solid #dddddd"></div>
+            <div style="width:92%;margin:25px auto;height:450px;float:right;">
+                <div style="height:40px;font-size:20px;font-weight:bold;line-height:40px;color:green;">特产百科明星</div>
+                <ul>
+                    <li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li><li style="width:110px;height:130px;float:left;margin-right:20px;margin-top:5px;">
+                        <img src="/sou185/Public/images/asd.jpg" width="100%" height="100px">
+                        <p style="text-align:center;line-height:35px;">柿子</p>
+                    </li>
+                </ul>
+                <div style="clear:both;"></div>
+                <style>
+                    .mingxing_menu li{width:87%;border-radius:15px;margin-left:5px;background-color:green;height:60px;margin-top:15px;
+                    text-align:center;line-height:60px;font-weight:bold;font-size:22px;}
+                </style>
+                <ul class="mingxing_menu">
+                    <a href=""><li>加工特产>></li></a>
+                    <a href=""><li>自然资源百科>></li></a>
+                    <a href=""><li>干货百科>></li></a>
+                    <a href=""><li>生鲜百科>></li></a>
+                </ul>
+            </div>
 
+        </div>
+        <div style="width:65%;border:1px solid red;float:right;height:950px;">
+            <div style="width:100%;height:300px;border:1px solid green"></div>
+        </div>
     </div>
 
 
